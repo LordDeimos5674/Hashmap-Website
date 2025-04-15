@@ -8,7 +8,7 @@ This is a Hashmap website that allows the user to test and fiddle with a hashmap
   - Hashing
   - Collision resolution with buckets
   - Dynamic resizing
-- No frameworks or external dependencies — just good old fashion HTML, CSS, and JS
+- No frameworks or external dependencies — just good old fashion HTML code
 
 ## How to Start
 - Open the Page itself to start no need for download
